@@ -1,0 +1,396 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px)
+ {
+
+    /* hero area star */
+
+    .hero-content {
+        padding: 70px 0;
+    }
+
+    .hero-content h2 {
+        font-size: 30px;
+    }
+
+    .hero-content h2 br {
+        display: none;
+    }
+
+    .hero-content p br {
+        display: none;
+    }
+
+    .we-are-area {
+        padding: 50px 0; 
+    }
+
+     /*  find-sports area star */
+
+     .sports-area .sports-content {
+        padding: 100px 0;
+    }
+    .sports-content p br {
+        display: none;
+    }
+
+    /*  find-sports area end */
+
+    /*  traine area star */
+
+    .traine-area {
+        padding: 30px 0 80px 0;
+    }
+
+    .trining-img {
+        right: -25%;
+        bottom: -12%; 
+    }
+
+    .traine-content {
+        padding: 100px 0 0 70px;
+    }
+
+    .traine-content h2 {
+        font-size: 28px;
+    }
+
+    .traine-content h2 br {
+        display: none;
+    }
+     /*  traine area end */
+
+      /* booking appotaiment area star */
+
+      .booking-content {
+        padding: 120px 0 0 0;
+    }
+
+    .booking-content h2 {
+        font-size:25px;
+    }
+
+    .booking-content h2 br {
+        display: none;
+    }
+
+    .booking-content p br {
+        display: none;
+    }
+
+    /* booking appotaiment area end */
+
+    .easy-way h2 {
+        font-size: 30px;
+    }
+
+    .easy-way h2 br {
+        display: none;
+    }
+
+    footer {
+        padding: 25px 0;
+    }
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+    /* hero area star */
+
+    .hero-content {
+        padding: 50px 0;
+    }
+
+    .hero-content h2 {
+        font-size: 30px;
+    }
+
+    .hero-content h2 br {
+        display: none;
+    }
+
+    .hero-content p {
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+
+     /* hero area end */
+
+      /* who we are area star */
+
+      .we-are-area {
+        padding: 50px 0 0 0; 
+    }
+
+    .we-are-content {
+        padding: 30px 0;
+    }
+    /* who we are area end */
+
+     /*  find-sports area star */
+
+     .sports-area .sports-content {
+        padding: 30px 0;
+    }
+    .sports-content p br {
+        display: none;
+    }
+
+    .sports-img {
+        padding: 20px 0;
+    }
+
+      /*  find-sports area end */
+
+       /*  traine area star */
+
+       
+    .traine-area {
+        padding: 30px 0 20px 0;
+    }
+
+    .traine-content {
+        padding: 100px 0 0 0;
+    }
+
+    .traine-content h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .traine-content h2 br {
+        display: none;
+    }
+
+     /*  traine area end */
+
+      /* booking appotaiment area star */
+
+      .booking-content {
+        padding: 50px 0 0 0;
+    }
+
+    .booking-content h2 {
+        font-size:25px;
+    }
+
+    .booking-content h2 br {
+        display: none;
+    }
+
+    .booking-img {
+        padding: 20px 0 20px 0;
+    }
+
+    /* booking appotaiment area end */
+
+    /* communicate area star */
+
+      .communicate-area {
+        padding: 40px 0;
+    }
+
+    .easy-way {
+        padding: 30px 0;
+    }
+
+    .easy-way h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .easy-way h2 br {
+        display: none;
+    }
+
+     /* communicate area end */
+
+     .testimonial-area {
+        padding: 40px 0;
+    }
+
+     .test-img img {
+        display: none;
+    }
+
+    .test-img .img22 {
+       display: block;
+    }
+
+    .test-title p {
+        margin-bottom: 20px;
+    }
+
+    .test-title p br{
+        display: none;
+    }
+
+    .test-title h3 {
+        margin-top: 0;
+    }
+
+    /* footer */
+
+    footer {
+        padding: 15px 0;
+    }
+
+    .footer-nav li a {
+        display: none;
+    }
+
+   
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
